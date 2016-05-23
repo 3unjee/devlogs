@@ -44,6 +44,6 @@ Note: For some reason you need to rename "utp-stream.o" to "utp-stram.o" to make
 (MotionBox #1) Torrent streaming: [MotionBox/chapters/1.TorrentStreaming.md](../MotionBox/chapters/1.TorrentStreaming.md)
 
 
-# Author
+## Author
 
 Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>.

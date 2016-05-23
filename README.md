@@ -11,6 +11,6 @@
 libtorrent: [3rdparty/libtorrent.md](3rdparty/libtorrent.md)
 
 
-# Author
+## Author
 
 Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
