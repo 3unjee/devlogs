@@ -7,7 +7,7 @@
 - MinGW 4.9.2: https://sourceforge.net/projects/mingw.
 - Boost 1.53.0: http://www.boost.org/users/history/version_1_53_0.html.
 - Boost 1.55.0: http://www.boost.org/users/history/version_1_55_0.html.
-- Libtorrent 1.1.0: http://github.com/arvidn/libtorrent/releases/tag/libtorrent-1_1.
+- libtorrent 1.1.0: http://github.com/arvidn/libtorrent/releases/tag/libtorrent-1_1.
 
 Note: extract everything in the same folder.
 
