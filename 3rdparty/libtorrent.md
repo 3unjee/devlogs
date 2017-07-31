@@ -27,6 +27,9 @@ Note: replace "folder" with your own path.
 - Go to "folder/boost_1_53_0/tools/build/v2".
 - Edit "user-config.jam" and uncomment "using gcc".
 
+- Go to "folder/boost_1_55_0/tools/build/v2".
+- Edit "user-config.jam" and uncomment "using gcc".
+
 
 ### Build
 
