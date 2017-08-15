@@ -16,13 +16,15 @@ Note: extract everything in the same folder.
 
 - Copy and run this batch file:
 
-    set PATH=%PATH%;folder\MinGW\bin;folder\boost_1_53_0\tools\build\v2\engine\bin.ntx86;folder\boost_1_55_0
+    set folder=C:\libtorrent
 
-    set BOOST_BUILD_PATH=folder\boost_1_55_0\tools\build\v2
+    set PATH=%PATH%;%folder%\MinGW\bin;%folder%\boost_1_53_0\tools\build\v2\engine\bin.ntx86;%folder%\boost_1_55_0
 
-    set BOOST_ROOT=folder\boost_1_55_0
+    set BOOST_BUILD_PATH=%folder%\boost_1_55_0\tools\build\v2
 
-Note: replace "folder" with your own path.
+    set BOOST_ROOT=%folder%\boost_1_55_0
+
+Note: set "folder" with your own path.
 
 - Go to "folder/boost_1_53_0/tools/build/v2".
 - Edit "user-config.jam" and uncomment "using gcc".
