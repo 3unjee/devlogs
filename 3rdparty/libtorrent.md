@@ -14,7 +14,7 @@ Note: Extract everything in the same folder.
 
 ### Configure
 
-- Copy and run this batch file:
+Copy and run this batch file:
 
     set folder=C:\libtorrent
 
