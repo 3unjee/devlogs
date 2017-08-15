@@ -9,7 +9,7 @@
 - Boost 1.55.0: http://www.boost.org/users/history/version_1_55_0.html.
 - libtorrent 1.1.0: http://github.com/arvidn/libtorrent/releases/tag/libtorrent-1_1.
 
-Note: extract everything in the same folder.
+Note: Extract everything in the same folder.
 
 
 ### Configure
@@ -24,7 +24,7 @@ Note: extract everything in the same folder.
 
     set BOOST_ROOT=%folder%\boost_1_55_0
 
-Note: set "folder" with your own path.
+Note: Set "folder" with your own path.
 
 - Go to "folder/boost_1_53_0/tools/build/v2".
 - Edit "user-config.jam" and uncomment "using gcc".
