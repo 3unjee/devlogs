@@ -41,7 +41,7 @@ Note: Set "folder" with your own path.
 - Go to "folder/libtorrent".
 - Run "bjam gcc link=static runtime-link=static variant=release warnings=off".
 
-Note: For some reason you need to rename "utp-stream.o" to "utp-stram.o" to make it link.
+Note: For some reason you have to rename "utp-stream.o" to "utp-stram.o" to make it link.
 
 
 ## Related
