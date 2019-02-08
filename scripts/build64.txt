@@ -1,0 +1,17 @@
+set folder=D:\dev\3rdparty\libtorrent
+
+set PATH=%PATH%;%folder%\MinGW64\bin;%folder%\boost_1_69_0\tools\build\src\engine\bin.ntx86_64;%folder%\boost_1_69_0
+
+set BOOST_BUILD_PATH=%folder%\boost_1_69_0\tools\build\src
+
+set BOOST_ROOT=%folder%\boost_1_69_0
+
+cd boost_1_69_0\tools\build\src\engine
+
+call build.bat gcc
+
+cd ..\..\..\..\..\libtorrent-rasterbar-1.1.12
+
+b2.exe -j4 toolset=gcc cxxflags=-std=c++11 variant=release link=shared openssl-version=pre1.1
+
+cd ..
