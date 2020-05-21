@@ -3,10 +3,10 @@
 - Repository: https://github.com/omega-gg/ALVR2
 - Azure CI: https://dev.azure.com/bunjee/ALVR2/_build?definitionId=12&_a=summary
 
-## ALVR² project is up \o/ - 21/05/2020
+## ALVR² project is up \o/ - 5/21/2020
 I'm currently working on the new repository for ALVR2 (alvr_server v2).
 I'm doing my best to keep the original project legacy and read about it.
-My goal is to retain what makes it great while make it portable, easy to use, maintain and expand.
+My goal is to retain what makes it great while makeing it portable, easy to use, maintain and expand.
 
 zarik5 has kindly shared wiki files with me regarding his project called ALVR-next that he started writing with Rust.
 This should help me evaluate the best path to architecture the rewrite to handle future improvements.
