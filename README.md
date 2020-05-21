@@ -7,7 +7,7 @@
 
 ## ALVR2
 
-ALVR2: [ALVR2.md](ALVR2.md)
+ALVR2 dev logs: [ALVR2.md](ALVR2.md)
 
 ## 3rdparty
 
