@@ -1,9 +1,9 @@
-# ALVR² dev logs
+# ALVR2 dev logs
 
 - Repository: https://github.com/omega-gg/ALVR2
 - Azure CI: https://dev.azure.com/bunjee/ALVR2/_build?definitionId=12&_a=summary
 
-## ALVR² project is up \o/ - 5/21/2020
+## ALVR2 project is up \o/ - 5/21/2020
 I'm currently working on the new repository for ALVR2 (alvr_server v2).
 I'm doing my best to keep the original project legacy and read about it.
 My goal is to retain what makes it great while making it portable, easy to use, maintain and expand.
