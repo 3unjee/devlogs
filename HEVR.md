@@ -1,7 +1,7 @@
 # HEVR dev logs
 
 - Repository: https://github.com/omega-gg/HEVR
-- Azure CI: https://dev.azure.com/bunjee/HEVR/_build?definitionId=12&_a=summary
+- Azure CI: https://dev.azure.com/bunjee/HEVR/_build?definitionId=13&_a=summary
 
 ## Renaming ALVR2 to HEVR - 5/28/2020
 So I wrote the following email to polygraphene:
