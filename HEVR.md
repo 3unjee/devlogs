@@ -18,12 +18,12 @@ So I wrote the following email to polygraphene:
 
     Would you be okay with us naming that new repository ALVR2 or ALVRX (as one contributor suggested) ?
 
-Since I didn't get an answer I decided to rename the ALVR2 to HEVR -> High Efficiency Virtual Reality.
+Since I didn't get an answer I decided to rename the ALVR2 repository to HEVR -> High Efficiency Virtual Reality.
 
 That name is a geeky pun based on the HEVC (H265) encoder and an emphasis on the streaming nature of the project.
 So I'll resume working on the project with that new name.
 
-Even though I'm departing from the ALVR name I'd like to maintain the compatibility with future [JackD83](https://github.com/JackD83) ALVR efforts, including a new GUI or a new client.
+Even though I'm departing from the ALVR name I'd like to maintain the compatibility with [JackD83](https://github.com/JackD83) ALVR, including the next GUI and Android client.
 
 ## ALVR2 project is up \o/ - 5/21/2020
 I'm currently working on the new repository for ALVR2 (alvr_server v2).
