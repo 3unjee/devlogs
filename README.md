@@ -5,9 +5,9 @@
 
 (MotionBox #1) Torrent streaming: [MotionBox/chapters/1.TorrentStreaming.md](MotionBox/chapters/1.TorrentStreaming.md)
 
-## ALVR2
+## HEVR
 
-ALVR2 dev logs: [ALVR2.md](ALVR2.md)
+HEVR dev logs: [HEVR.md](HEVR.md)
 
 ## 3rdparty
 
