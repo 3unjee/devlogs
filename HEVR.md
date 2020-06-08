@@ -3,6 +3,26 @@
 - Repository: https://github.com/omega-gg/HEVR
 - Azure CI: https://dev.azure.com/bunjee/HEVR/_build?definitionId=13&_a=summary
 
+## Updating the project architecture - 8/06/2020
+
+I've been iterating on the project architecture a bit and I thought I'd share the progress so far.
+
+HEVR is essentially going to be divided in three main parts, libHEVR, HEVR-OpenVR and HEVR.
+- libHEVR is going to be the basis for building a VR streaming application from scratch, both client or driver.
+- HEVR-OpenVR is going to be the SteamVR driver that depends on libHEVR classes with as few specifics as possible.
+The idea is to rely on generic classes as much of possible so we can port HEVR to different scenarios in the future like OpenXR.
+- HEVR is going to be a universal client (mostly for testing initally); it will also be able to do mundane tasks in the desktop.
+If it's ran from a desktop OS it will be able to install the OpenVR driver or launch SteamVR. It will also be a viewer for debug.
+If it's ran from Android on the Oculus Quest it will act as a streaming client like the current AVLR-client (not a priority).
+
+I'll keep HEVR-OpenVR entirelly compatible with the ALVR-GUI (web-ui) and ALVR-Client.
+Ideally I would like HEVR to be compatible with the current ALVR OpenVR driver (alvr_server) thus enabling cross-testing.
+
+The licensing will be as follow: LGPL for libHEVR, HEVR-OpenVR and GPL for HEVR client.
+This architecture is inspired from the VLC architecture that puts most of its intelligence in libVLC (LGPL) and builds its GPL client from it.
+That way I hope to fully promote Free Software in the VR community while keeping the door open for proprietary implementations.
+Essentially being liberal philosophically without "selling out" the GPL client (which wouldn't make much sense "market wise" anyway).
+
 ## Renaming ALVR2 to HEVR - 5/28/2020
 So I wrote the following email to polygraphene:
 
