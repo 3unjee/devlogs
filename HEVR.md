@@ -13,7 +13,7 @@ HEVR is essentially going to be divided in three main parts, libHEVR, HEVR-OpenV
 The idea is to rely on generic classes as much of possible so we can port HEVR to different scenarios in the future like OpenXR.
 - HEVR is going to be a universal client (mostly for testing initally); it will also be able to do mundane tasks in the desktop.
 If it's ran from a desktop OS it will be able to install the OpenVR driver or launch SteamVR. It will also be a viewer for debug.
-If it's ran from Android on the Oculus Quest it will act as a streaming client like the current AVLR-client (not a priority).
+If it's ran from Android on the Oculus Quest it will act as a streaming client like the current ALVR-client (not a priority).
 
 I'll keep HEVR-OpenVR entirelly compatible with the ALVR-GUI (web-ui) and ALVR-Client.
 Ideally I would like HEVR client to be compatible with the current ALVR OpenVR driver (alvr_server) thus enabling cross-testing.
