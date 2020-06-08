@@ -16,12 +16,12 @@ If it's ran from a desktop OS it will be able to install the OpenVR driver or la
 If it's ran from Android on the Oculus Quest it will act as a streaming client like the current AVLR-client (not a priority).
 
 I'll keep HEVR-OpenVR entirelly compatible with the ALVR-GUI (web-ui) and ALVR-Client.
-Ideally I would like HEVR to be compatible with the current ALVR OpenVR driver (alvr_server) thus enabling cross-testing.
+Ideally I would like HEVR client to be compatible with the current ALVR OpenVR driver (alvr_server) thus enabling cross-testing.
 
 The licensing will be as follow: LGPL for libHEVR, HEVR-OpenVR and GPL for HEVR client.
 This architecture is inspired from the VLC architecture that puts most of its intelligence in libVLC (LGPL) and builds its GPL client from it.
 That way I hope to fully promote Free Software in the VR community while keeping the door open for proprietary implementations.
-Essentially being liberal philosophically without "selling out" the GPL client (which wouldn't make much sense "market wise" anyway).
+Essentially being liberal philosophically without "selling out" the GPL client (which wouldn't make much sense anyway).
 
 ## Renaming ALVR2 to HEVR - 5/28/2020
 So I wrote the following email to polygraphene:
