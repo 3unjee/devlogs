@@ -3,7 +3,7 @@
 - Repository: https://github.com/omega-gg/HEVR
 - Azure CI: https://dev.azure.com/bunjee/HEVR/_build?definitionId=13&_a=summary
 
-## Updating the project architecture - 8/06/2020
+## Updating the project architecture - 6/08/2020
 
 I've been iterating on the project architecture a bit and I thought I'd share the progress so far.
 
