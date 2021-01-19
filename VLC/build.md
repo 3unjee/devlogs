@@ -1,10 +1,10 @@
 # Configure and build VLC from scratch
 
 ## Ubuntu
-- *Install Ubuntu 20.04 LTS*
+- Install Ubuntu 20.04 LTS
 
 ## Qt
-- *Install Qt 5.11.3* -> Desktop Gcc 64-bit module:
+- Install Qt 5.11.3 -> Desktop Gcc 64-bit module:
     - https://download.qt.io/new_archive/qt/5.11/5.11.3
 
 ## Configure
@@ -12,11 +12,11 @@
 - `sudo apt install python`         # NOTE: This is required for building 'tools'
 - `sudo apt install cmake`          # NOTE: This is required for building 'contrib'
 - `sudo apt install libxcb-xkb-dev` # NOTE: This is required for building 'vlc'
-- *Enable sources on Ubuntu* (https://askubuntu.com/questions/496549/error-you-must-put-some-source-uris-in-your-sources-list)
+- Enable sources on Ubuntu (https://askubuntu.com/questions/496549/error-you-must-put-some-source-uris-in-your-sources-list)
 - `sudo apt-get build-dep vlc`
 
 ## Configure
-- *Optional*:
+- Optional:
     - fork https://code.videolan.org/videolan/vlc
 - Generate rsa: `ssh-keygen -t rsa -b 2048 -C "bunjee@omega.gg"`
 - Upload {YOUR_HOME}/.ssh/id_rsa.pub to code.videolan.org
