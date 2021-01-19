@@ -16,7 +16,8 @@
 - sudo apt-get build-dep vlc
 
 ## Configure
-- optional: fork https://code.videolan.org/videolan/vlc
+- *optional*:
+    - fork https://code.videolan.org/videolan/vlc
 - generate rsa: `ssh-keygen -t rsa -b 2048 -C "bunjee@omega.gg"`
 - upload {YOUR_HOME}.ssh/id_rsa.pub to code.videolan.org
 - sudo apt install git
