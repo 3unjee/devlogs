@@ -7,7 +7,7 @@
 
 ## VLC
 
-Configure and build VLC from scratch: [VLC/build.md](build.md)
+Configure and build VLC from scratch: [VLC/build.md](VLC/build.md)
 
 ## HEVR
 
