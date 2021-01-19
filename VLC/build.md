@@ -24,7 +24,7 @@
 - git clone https://code.videolan.org/{$YOUR_FORK}/vlc
 
 ## VLC tools
-- `cd extra/tools`
+- `cd vlc/extra/tools`
 - `./bootstrap`
 - `make -j4`
 
