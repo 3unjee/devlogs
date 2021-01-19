@@ -5,6 +5,10 @@
 
 (MotionBox #1) Torrent streaming: [MotionBox/chapters/1.TorrentStreaming.md](MotionBox/chapters/1.TorrentStreaming.md)
 
+## VLC
+
+Configure and build VLC from scratch: [VLC/build.md](build.md)
+
 ## HEVR
 
 HEVR dev logs: [HEVR.md](HEVR.md)
