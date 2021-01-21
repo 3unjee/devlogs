@@ -7,7 +7,7 @@
 - Install Qt 5.11.3 -> Desktop Gcc 64-bit module:
     - https://download.qt.io/new_archive/qt/5.11/5.11.3
 
-## Configure
+## Install
 - `sudo apt install git build-essential pkg-config libtool automake autopoint gettext`
 - `sudo apt install python`         # NOTE: This is required for building 'tools'
 - `sudo apt install cmake`          # NOTE: This is required for building 'contrib'
@@ -15,7 +15,7 @@
 - Enable sources on Ubuntu (https://askubuntu.com/questions/496549/error-you-must-put-some-source-uris-in-your-sources-list)
 - `sudo apt-get build-dep vlc`
 
-## Configure
+## Clone
 - Optional:
     - fork https://code.videolan.org/videolan/vlc
 - Generate rsa: `ssh-keygen -t rsa -b 2048 -C "{YOUR_EMAIL}"`
