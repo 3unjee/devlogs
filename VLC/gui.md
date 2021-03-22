@@ -16,3 +16,11 @@
     - This allows us to have colored and animated icons.
     - This allows us to have lazy loading on icons (faster GUI startup).
     - Font icons are web practices and we are genuine developers (OK I'm trolling a little bit).
+
+## Got anything in mind ?
+
+Tell me here -> bunjee@omega.gg
+
+## Author
+
+Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
