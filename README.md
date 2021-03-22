@@ -9,6 +9,8 @@
 
 Configure and build VLC from scratch: [VLC/build.md](VLC/build.md)
 
+GUI improvements proposal for VLC 4: [VLC/gui.md](VLC/gui.md)
+
 ## HEVR
 
 HEVR dev logs: [HEVR.md](HEVR.md)
