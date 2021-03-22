@@ -23,7 +23,7 @@
 - `sudo apt install git`
 - git clone https://code.videolan.org/{$YOUR_FORK}/vlc
 
-## VLC toolsls
+## VLC tools
 - `cd vlc/extra/tools`
 - `./bootstrap`
 - `make -j4`
