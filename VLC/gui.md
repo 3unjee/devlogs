@@ -1,4 +1,4 @@
-# VLC 4 - GUI improvements proposal (WIP)
+# VLC 4 - GUI improvements proposal / WIP
 
 ## UX
 - Improve page transitions and animations (when clicking on different tabs).
