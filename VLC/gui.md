@@ -1,7 +1,7 @@
 # GUI improvements proposal for VLC 4 (WIP)
 
 ## UX
-- Improve transition animations betwen pages (when clicking on the different tabs).
+- Improve page transitions and animations (when clicking on different tabs).
     - Make sure we can disable or configure them from a single place.
 - Improve buttons and tab buttons animations / behavior to make them instant.
 - Improve scrolling area(s) performance, they are too slow for some reason.
@@ -16,6 +16,7 @@
     - This allows us to have colored and animated icons.
     - This allows us to have lazy loading on icons (faster GUI startup).
     - Font icons are web practices and we are genuine developers (OK I'm trolling a little bit).
+- Make error popup look better they are currently list based and not optimal for readability.
 
 ## Got anything in mind ?
 
