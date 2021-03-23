@@ -1,7 +1,7 @@
 # VLC 4 - GUI improvements proposal / WIP
 
-This document is a list of *potential* technical improvements for the upcoming 4.0 release of
-VLC (and beyond). It focusses on the desktop Windows / Linux version. It should be updated along
+This document is a list of *potential* improvements for the upcoming release of VLC 
+(4.0 and beyond). It focusses on the desktop Windows / Linux version. It should be updated along 
 the way when something is added or completed.
 
 ## UX
