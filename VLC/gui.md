@@ -14,6 +14,7 @@ the way when something is added or completed.
 ## UI
 - Improve buttons area (by reducing margins) and highlight to make them more subtle
 (i.e. as defined in the original design).
+    - When hovering we could make a thicker border or display a soft shadow.
 - Improve the scrollbar visiblity and make them closer to the native look
 (both on Windows and Linux).
 - Improve shadows under navigation tabs to make them closer to the original design.
