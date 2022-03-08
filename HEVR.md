@@ -115,4 +115,4 @@ An alternative would be Boost but I have more experience with Qt and I think I l
 It's also going to be based on my application kit called [Sky](http://omega.gg/Sky) that I designed
 for MotionBox. License wise, I decided to go from GPLv3 to LGPLv3 to make it suitable for the ALVR2
 developpement. This should give me a headstart for various mundane tasks like handling configuration
-stuff. Being a single developper on this, it's a good thing to avoid reinventing the wheel.
+stuff. Being a single developer on this, it's a good thing to avoid reinventing the wheel.
