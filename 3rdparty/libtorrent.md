@@ -5,8 +5,8 @@
 ### Requirements
 
 - MinGW 7.3.0: https://sourceforge.net/projects/mingw.
-- Boost 1.53.0: http://www.boost.org/users/history/version_1_53_0.html.
-- Boost 1.55.0: http://www.boost.org/users/history/version_1_55_0.html.
+- Boost 1.53.0: https://www.boost.org/users/history/version_1_53_0.html.
+- Boost 1.55.0: https://www.boost.org/users/history/version_1_55_0.html.
 - libtorrent 1.1.12: https://github.com/arvidn/libtorrent/releases
 
 Note: Extract everything in the same folder.
