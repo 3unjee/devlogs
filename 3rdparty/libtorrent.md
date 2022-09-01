@@ -51,4 +51,4 @@ Note: For some reason you have to rename "utp-stream.o" to "utp-stram.o" to make
 
 ## Author
 
-Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>.
+Benjamin Arnaud aka [bunjee](https://bunjee.me) | <bunjee@omega.gg>.

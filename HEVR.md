@@ -112,7 +112,7 @@ CI should be functionnal on Windows (gcc / msvc) / Linux / macOS.
 
 My rewrite is going to use Qt because multiplatform without a good framework is hell.
 An alternative would be Boost but I have more experience with Qt and I think I like it better.
-It's also going to be based on my application kit called [Sky](http://omega.gg/Sky) that I designed
+It's also going to be based on my application kit called [Sky](https://omega.gg/Sky) that I designed
 for MotionBox. License wise, I decided to go from GPLv3 to LGPLv3 to make it suitable for the ALVR2
 developpement. This should give me a headstart for various mundane tasks like handling configuration
 stuff. Being a single developer on this, it's a good thing to avoid reinventing the wheel.

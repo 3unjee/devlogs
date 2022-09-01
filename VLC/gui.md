@@ -33,4 +33,4 @@ Tell me here -> bunjee@omega.gg
 
 ## Author
 
-Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
+Benjamin Arnaud aka [bunjee](https://bunjee.me) | <bunjee@omega.gg>

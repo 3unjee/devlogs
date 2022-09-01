@@ -1,4 +1,4 @@
-# [bunjee](http://bunjee.me)'s devlogs
+# [bunjee](https://bunjee.me)'s devlogs
 
 
 ## MotionBox
@@ -22,4 +22,4 @@ libtorrent: [3rdparty/libtorrent.md](3rdparty/libtorrent.md)
 
 ## Author
 
-Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
+Benjamin Arnaud aka [bunjee](https://bunjee.me) | <bunjee@omega.gg>
