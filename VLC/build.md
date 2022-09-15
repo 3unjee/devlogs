@@ -10,7 +10,7 @@
 ## Install
 - `sudo apt install git build-essential pkg-config libtool automake autopoint gettext`
 - `sudo apt install python`         # NOTE: This is required for building 'tools'
-- `sudo apt install cmake`          # NOTE: This is required for building 'contrib'
+- `sudo apt install cmake gperf`    # NOTE: This is required for building 'contrib'
 - `sudo apt install libxcb-xkb-dev` # NOTE: This is required for building 'vlc'
 - Enable sources on Ubuntu (https://askubuntu.com/questions/496549/error-you-must-put-some-source-uris-in-your-sources-list)
 - `sudo apt-get build-dep vlc`
