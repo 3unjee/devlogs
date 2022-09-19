@@ -15,6 +15,9 @@
 - Enable sources on Ubuntu (https://askubuntu.com/questions/496549/error-you-must-put-some-source-uris-in-your-sources-list)
 - `sudo apt-get build-dep vlc`
 
+### Optional
+- `sudo apt install python-fontforge` # NOTE: This is required for generating 'vlc' icons font.
+
 ## Clone
 - Optional:
     - fork https://code.videolan.org/videolan/vlc
